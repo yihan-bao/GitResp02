@@ -5,4 +5,5 @@ public class person {
     private String sex;
     private Integer age;
 	private double giao;
+    private double price;
 }
